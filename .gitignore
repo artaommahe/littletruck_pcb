@@ -1,0 +1,8 @@
+*.*
+
+#exept
+!.gitignore
+!*.lay6
+
+#ignore backups
+*backup*.lay6
