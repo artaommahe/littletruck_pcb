@@ -3,6 +3,9 @@
 #exept
 !.gitignore
 !*.lay6
+!kicad/lib/*
 
 #ignore backups
 *backup*.lay6
+kicad/lib/*.bak
+kicad/lib/*.bсk

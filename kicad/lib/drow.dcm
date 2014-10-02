@@ -1,0 +1,83 @@
+EESchema-DOCLIB  Version 2.0  Date: 09.04.2014 22:54:26
+#
+$CMP CAPACITOR
+D capacitor
+K capacitor
+$ENDCMP
+#
+$CMP CAPACITOR-EL
+D capacitor electrolytic
+K capacitor electrolytic
+$ENDCMP
+#
+$CMP CONNECTOR2
+D connector 2pins
+K connector socket 2pin 2pins 2-pin 2-pins
+$ENDCMP
+#
+$CMP CONNECTOR3
+D connector 3pins
+K connector socket 3pin 3pins 3-pin 3-pins
+$ENDCMP
+#
+$CMP DIODE
+D diode
+K diode
+$ENDCMP
+#
+$CMP FUSE
+D fuse
+K fuse resettable
+$ENDCMP
+#
+$CMP NJFET
+D JFET n-channgel
+K jfet njfet n-channel transistor
+$ENDCMP
+#
+$CMP NPN
+D NPN bipolar
+K NPN transistor bipolar
+$ENDCMP
+#
+$CMP OPAMP_DUAL
+D Dual op-amp
+K opamp op-amp dual tl072
+$ENDCMP
+#
+$CMP OPAMP_QUAD
+D Quad op-amp
+K opamp op-amp quad
+$ENDCMP
+#
+$CMP OPAMP_SINGLE
+D Single op-amp
+K opamp op-amp sigle
+$ENDCMP
+#
+$CMP PJFET
+D JFET p-channgel
+K jfet pjfet p-channel transistor
+$ENDCMP
+#
+$CMP PNP
+D NPN bipolar
+K NPN transistor bipolar
+$ENDCMP
+#
+$CMP POTENTIOMETER
+D potentiometer
+K potentiometer pot vairable resistor
+$ENDCMP
+#
+$CMP RESISTOR
+D resistor
+K resistor
+$ENDCMP
+#
+$CMP SW_ON-OFF_SINGLE
+D switch on-off single
+K switch on-off single
+$ENDCMP
+#
+#End Doc Library
