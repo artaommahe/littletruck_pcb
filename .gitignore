@@ -1,11 +1,15 @@
 *.*
 
-#exept
+# exept
 !.gitignore
+# SprintLayout6 layouts
 !*.lay6
+# LTSpice schemes
+!*.asc
+# KiCAD libs
 !kicad/lib/*
 
-#ignore backups
+# ignore backups
 *backup*.lay6
 kicad/lib/*.bak
 kicad/lib/*.bсk
