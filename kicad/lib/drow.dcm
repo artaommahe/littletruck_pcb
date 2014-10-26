@@ -1,13 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 09.04.2014 22:54:26
+EESchema-DOCLIB  Version 2.0
 #
 $CMP CAPACITOR
 D capacitor
 K capacitor
-$ENDCMP
-#
-$CMP CAPACITOR-EL
-D capacitor electrolytic
-K capacitor electrolytic
 $ENDCMP
 #
 $CMP CONNECTOR2
@@ -28,6 +23,11 @@ $ENDCMP
 $CMP FUSE
 D fuse
 K fuse resettable
+$ENDCMP
+#
+$CMP LED
+D LED
+K led diode
 $ENDCMP
 #
 $CMP NJFET

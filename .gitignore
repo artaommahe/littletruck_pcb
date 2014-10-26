@@ -10,7 +10,7 @@
 !*.asc
 
 # KiCAD libs
-!kicad/lib/*
+!kicad/lib/
 
 #KiCAD files
 !*.sch
