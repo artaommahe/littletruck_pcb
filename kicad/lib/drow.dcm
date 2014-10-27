@@ -30,6 +30,11 @@ D LED
 K led diode
 $ENDCMP
 #
+$CMP LM13700
+D Dual op-amp
+K opamp op-amp dual tl072
+$ENDCMP
+#
 $CMP NJFET
 D JFET n-channgel
 K jfet njfet n-channel transistor
@@ -47,7 +52,7 @@ $ENDCMP
 #
 $CMP OPAMP_QUAD
 D Quad op-amp
-K opamp op-amp quad
+K opamp op-amp quad tl074
 $ENDCMP
 #
 $CMP OPAMP_SINGLE
