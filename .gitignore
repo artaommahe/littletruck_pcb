@@ -18,6 +18,9 @@
 !*.pro
 !*.brd
 
+# SprintLayout 6 Makros
+!*.LMK
+
 # ignore backups
 *backup*.lay6
 kicad/lib/*.bak
