@@ -1,4 +1,4 @@
-update=Вс. 26 окт. 2014 23:39:32
+update=Пт. 14 нояб. 2014 20:21:06
 version=1
 last_client=kicad
 [cvpcb]
@@ -29,8 +29,13 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-LibDir=../../../../kicad
-[eeschema/libraries]
-LibName1=lib/drow
-LibName2=lib/ic
-LibName3=lib/power
+PageLayoutDescrFile=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+RptD_X=0
+RptD_Y=100
+RptLab=1
+LabSize=60
