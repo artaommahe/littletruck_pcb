@@ -11,12 +11,14 @@
 
 # KiCAD libs
 !kicad/lib/
+!/kicad/lib.pretty/
 
 #KiCAD files
 !*.sch
 !*.lib
 !*.pro
 !*.brd
+!*.kicad_mod
 
 # SprintLayout 6 Makros
 !*.LMK
