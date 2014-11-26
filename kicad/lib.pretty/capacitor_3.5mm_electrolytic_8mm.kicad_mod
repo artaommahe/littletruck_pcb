@@ -1,5 +1,6 @@
-(module capacitor_3.5mm_el (layer F.Cu) (tedit 5468B1B9)
-  (fp_text reference capacitor_3.5mm_el (at 1.75 5) (layer F.SilkS)
+(module capacitor_3.5mm_electrolytic_8mm (layer F.Cu) (tedit 5468B1B9)
+  (tags electrolytic)
+  (fp_text reference capacitor_3.5mm_electrolytic_8mm (at 1.75 5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_text value VAL** (at 1.75 2.25) (layer F.SilkS)
