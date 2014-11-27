@@ -1,5 +1,5 @@
-(module resistor_7.5mm (layer F.Cu) (tedit 5475EE29)
-  (fp_text reference resistor_7.5 (at 3.75 2.5) (layer F.SilkS)
+(module resistor_7.5mm (layer F.Cu) (tedit 5477A637)
+  (fp_text reference resistor_7.5mm (at 3.75 2.5) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.15)))
   )
   (fp_text value VAL** (at 3.75 0) (layer F.SilkS)

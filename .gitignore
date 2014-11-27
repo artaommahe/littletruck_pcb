@@ -18,6 +18,8 @@
 !*.lib
 !*.pro
 !*.brd
+!*.net
+!*.cmp
 !*.kicad_mod
 
 # SprintLayout 6 Makros
