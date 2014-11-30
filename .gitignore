@@ -18,6 +18,7 @@
 !*.lib
 !*.pro
 !*.brd
+!*.kicad_pcb
 !*.net
 !*.cmp
 !*.kicad_mod

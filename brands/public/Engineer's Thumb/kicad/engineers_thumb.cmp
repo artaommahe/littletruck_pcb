@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Пт. 28 нояб. 2014 02:41:16
+Cmp-Mod V01 Created by Cvpcb 0.201411291501+5307~19~ubuntu14.04.1-product   date = Вс. 30 нояб. 2014 16:23:37
 
 BeginCmp
 TimeStamp = /5466F0EE;
@@ -186,7 +186,7 @@ BeginCmp
 TimeStamp = /544F811C;
 Reference = Q1;
 ValeurCmp = BC327;
-IdModule  = ;
+IdModule  = drow:transistor_pnp_cbe;
 EndCmp
 
 BeginCmp
