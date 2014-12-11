@@ -1,355 +1,325 @@
-Cmp-Mod V01 Genere par PcbNew le Чт. 04 дек. 2014 16:08:03
+Cmp-Mod V01 Created by Cvpcb 0.201412111631+5320~19~ubuntu14.04.1-product   date = Пт. 12 дек. 2014 01:54:22
 
 BeginCmp
-TimeStamp = 547F62A8
-Path = /5466F0EE
+TimeStamp = /5466F0EE;
 Reference = B1;
 ValeurCmp = 9v;
 IdModule  = drow:socket_power_onboard;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6311
-Path = /544D6DF3
+TimeStamp = /544D6DF3;
 Reference = C1;
 ValeurCmp = 10n;
 IdModule  = drow:capacitor_5mm_film;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6306
-Path = /544D7925
+TimeStamp = /544D7925;
 Reference = C2;
 ValeurCmp = 100p;
 IdModule  = drow:capacitor_5mm_ceramic;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62FB
-Path = /544F49CE
+TimeStamp = /544F49CE;
 Reference = C3;
 ValeurCmp = 1u;
 IdModule  = drow:capacitor_2.5mm_electrolytic_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62F3
-Path = /544F5A13
+TimeStamp = /5451030E;
 Reference = C4;
-ValeurCmp = 1u;
-IdModule  = drow:capacitor_2.5mm_electrolytic_5mm;
-EndCmp
-
-BeginCmp
-TimeStamp = 547F62EB
-Path = /5451030E
-Reference = C5;
 ValeurCmp = 220u;
 IdModule  = drow:capacitor_3.5mm_electrolytic_8mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62E3
-Path = /54512740
+TimeStamp = /544F5A13;
+Reference = C5;
+ValeurCmp = 1u;
+IdModule  = drow:capacitor_2.5mm_electrolytic_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54512740;
 Reference = C6;
 ValeurCmp = 100n;
 IdModule  = drow:capacitor_5mm_ceramic;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62D8
-Path = /545124AF
+TimeStamp = /545124AF;
 Reference = C7;
 ValeurCmp = 47u;
 IdModule  = drow:capacitor_2.5mm_electrolytic_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62D0
-Path = /544EF12D
+TimeStamp = /544EF12D;
 Reference = C8;
 ValeurCmp = 4.7n;
 IdModule  = drow:capacitor_5mm_film;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62C5
-Path = /544E96B9
+TimeStamp = /544E96B9;
 Reference = C9;
 ValeurCmp = 10u;
 IdModule  = drow:capacitor_2.5mm_tantal;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6323
-Path = /54680130
+TimeStamp = /54683729;
+Reference = CN1;
+ValeurCmp = IN;
+IdModule  = drow:socket_jack_powered-6.35_onboard;
+EndCmp
+
+BeginCmp
+TimeStamp = /54680130;
 Reference = CN2;
 ValeurCmp = OUT;
 IdModule  = drow:socket_jack-6.35_onboard;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F628E
-Path = /544D6CAD
+TimeStamp = /544D6CAD;
 Reference = D1;
 ValeurCmp = Red;
 IdModule  = drow:diode_light_2.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6285
-Path = /544D6D6F
+TimeStamp = /544D6D6F;
 Reference = D2;
 ValeurCmp = Red;
 IdModule  = drow:diode_light_2.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F627C
-Path = /544F365A
+TimeStamp = /544F365A;
 Reference = D3;
 ValeurCmp = 1n4148;
 IdModule  = drow:diode_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6268
-Path = /544F3ABB
+TimeStamp = /544F3ABB;
 Reference = D4;
 ValeurCmp = 1n4148;
 IdModule  = drow:diode_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6254
-Path = /5466EF6A
+TimeStamp = /5466EF6A;
 Reference = D5;
 ValeurCmp = 1n4007;
 IdModule  = drow:diode_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6241
-Path = /544F7EB0
+TimeStamp = /548AE167;
 Reference = D6;
+ValeurCmp = Red;
+IdModule  = drow:diode_light_2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544F7EB0;
+Reference = D7;
 ValeurCmp = 1n4148;
 IdModule  = drow:diode_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F622D
-Path = /5466EF51
+TimeStamp = /5466EF51;
 Reference = F1;
 ValeurCmp = FUSE;
 IdModule  = drow:fuse_resettable_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6221
-Path = /544D74FB
+TimeStamp = /544D74FB;
 Reference = IC1;
 ValeurCmp = TL072;
 IdModule  = drow:opamp_dip8_2.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F61E6
-Path = /544F686B
+TimeStamp = /544F686B;
 Reference = IC2;
 ValeurCmp = TL072;
 IdModule  = drow:opamp_dip8_2.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F63C7
-Path = /54663F28
+TimeStamp = /54663F28;
 Reference = IC3;
 ValeurCmp = CA3080;
 IdModule  = drow:ic_dip8_2.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F644F
-Path = /5451D089
+TimeStamp = /548A23DA;
 Reference = P1;
 ValeurCmp = 1M Lin;
 IdModule  = drow:potentiometer_panel_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6443
-Path = /544D79B7
+TimeStamp = /5451D089;
 Reference = P2;
-ValeurCmp = 1M Log;
-IdModule  = drow:potentiometer_panel_5mm;
-EndCmp
-
-BeginCmp
-TimeStamp = 547F6437
-Path = /5451E069
-Reference = P3;
 ValeurCmp = 1M Lin;
 IdModule  = drow:potentiometer_panel_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F642B
-Path = /544E9737
+TimeStamp = /544D79B7;
+Reference = P3;
+ValeurCmp = 1M Log;
+IdModule  = drow:potentiometer_panel_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5451E069;
 Reference = P4;
+ValeurCmp = 1M Lin;
+IdModule  = drow:potentiometer_panel_5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544E9737;
+Reference = P5;
 ValeurCmp = 10k Log;
 IdModule  = drow:potentiometer_panel_5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F641F
-Path = /544F811C
+TimeStamp = /544F811C;
 Reference = Q1;
 ValeurCmp = BC327;
 IdModule  = drow:transistor_pnp_cbe;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6408
-Path = /544D64C0
+TimeStamp = /544D64C0;
 Reference = R1;
 ValeurCmp = 10M;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F63FB
-Path = /544D644E
+TimeStamp = /544D644E;
 Reference = R2;
 ValeurCmp = 1k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F63EE
-Path = /544F147C
+TimeStamp = /5466ADA9;
 Reference = R3;
-ValeurCmp = 10M;
-IdModule  = drow:resistor_7.5mm;
-EndCmp
-
-BeginCmp
-TimeStamp = 547F63E1
-Path = /5466ADA9
-Reference = R4;
 ValeurCmp = 220k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F63D4
-Path = /544F5882
+TimeStamp = /544F5882;
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = drow:resistor_7.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544EE303;
 Reference = R5;
 ValeurCmp = 1k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F645C
-Path = /544EE303
+TimeStamp = /548ADBA6;
 Reference = R6;
-ValeurCmp = 1k;
+ValeurCmp = 10k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F63A3
-Path = /54511294
+TimeStamp = /54511294;
 Reference = R7;
 ValeurCmp = 10k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6396
-Path = /545115A4
+TimeStamp = /545115A4;
 Reference = R8;
 ValeurCmp = 10k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6389
-Path = /544F8F4D
+TimeStamp = /544F8F4D;
 Reference = R9;
 ValeurCmp = 1k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F637C
-Path = /544EE5F4
+TimeStamp = /544EE5F4;
 Reference = R10;
 ValeurCmp = 10k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F636F
-Path = /544EF102
+TimeStamp = /544EF102;
 Reference = R11;
 ValeurCmp = 10k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6362
-Path = /544F9523
+TimeStamp = /544F9523;
 Reference = R12;
 ValeurCmp = 1M;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6355
-Path = /544F21C5
+TimeStamp = /544F21C5;
 Reference = R13;
 ValeurCmp = 10k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F6348
-Path = /544F24A3
+TimeStamp = /544F24A3;
 Reference = R14;
 ValeurCmp = 220;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F633B
-Path = /544E936B
+TimeStamp = /544E936B;
 Reference = R15;
 ValeurCmp = 1k;
 IdModule  = drow:resistor_7.5mm;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F632E
-Path = /544EF68A
+TimeStamp = /548A234D;
 Reference = SW1;
-ValeurCmp = SW_ON-OFF_SINGLE;
-IdModule  = drow:socket_2pin_2.5mm;
-EndCmp
-
-BeginCmp
-TimeStamp = 547F6984
-Path = 
-Reference = switch_3pdt_stomp_onboard;
-ValeurCmp = VAL**;
+ValeurCmp = SW_3PDT;
 IdModule  = drow:switch_3pdt_stomp_onboard;
 EndCmp
 
 BeginCmp
-TimeStamp = 547F62BA
-Path = /54683729
-Reference = CN1;
-ValeurCmp = IN;
-IdModule  = drow:socket_jack_powered-6.35_onboard;
+TimeStamp = /544EF68A;
+Reference = SW2;
+ValeurCmp = SW_ON-OFF_SINGLE;
+IdModule  = drow:socket_2pin_2.5mm;
 EndCmp
 
 EndListe

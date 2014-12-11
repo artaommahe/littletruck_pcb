@@ -22,11 +22,15 @@
 !*.net
 !*.cmp
 !*.kicad_mod
+!*.kicad_wks
 
 # SprintLayout 6 Makros
 !*.LMK
 
 # ignore backups
 *backup*.lay6
+
 kicad/lib/*.bak
 kicad/lib/*.bсk
+
+$*.*

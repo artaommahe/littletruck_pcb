@@ -1,3 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: 29.01.2014 21:58:36
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Vref
+D vref
+K vref
+$ENDCMP
 #
 #End Doc Library

@@ -10,6 +10,11 @@ D capacitor
 K capacitor
 $ENDCMP
 #
+$CMP CAPACITOR-EL
+D capacitor electrolytic
+K capacitor electrolytic
+$ENDCMP
+#
 $CMP CONNECTOR2
 D connector 2pins
 K connector socket 2pin 2pins 2-pin 2-pins
@@ -83,6 +88,11 @@ $ENDCMP
 $CMP RESISTOR
 D resistor
 K resistor
+$ENDCMP
+#
+$CMP SW_3PDT
+D switch on-on 3pdt
+K switch on-on 3pdt
 $ENDCMP
 #
 $CMP SW_ON-OFF_SINGLE
