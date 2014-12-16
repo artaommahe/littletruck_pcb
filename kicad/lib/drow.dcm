@@ -100,4 +100,9 @@ D switch on-off single
 K switch on-off single
 $ENDCMP
 #
+$CMP TRIMPOT
+D trimpot
+K trimpot trimmer potentiometer pot vairable resistor
+$ENDCMP
+#
 #End Doc Library
