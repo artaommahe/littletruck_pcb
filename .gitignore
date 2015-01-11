@@ -24,7 +24,11 @@
 !*.kicad_mod
 !*.kicad_wks
 
+#ignore additional programs
+programs/
+
 # SprintLayout 6 Makros
+!*.lmk
 !*.LMK
 
 # ignore backups
