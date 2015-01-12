@@ -471,12 +471,12 @@ $EndComp
 $Comp
 L RESISTOR R12
 U 1 1 544F9523
-P 7250 1500
-F 0 "R12" H 7250 1580 59  0000 C CNN
-F 1 "1M" H 7250 1400 59  0000 C CNN
-F 2 "drow:resistor_7.5mm" H 7100 1540 60  0001 C CNN
-F 3 "" H 7100 1540 60  0000 C CNN
-	1    7250 1500
+P 6450 2550
+F 0 "R12" H 6450 2630 59  0000 C CNN
+F 1 "1M" H 6450 2450 59  0000 C CNN
+F 2 "drow:resistor_7.5mm" H 6300 2590 60  0001 C CNN
+F 3 "" H 6300 2590 60  0000 C CNN
+	1    6450 2550
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -666,8 +666,6 @@ Wire Wire Line
 Wire Wire Line
 	6450 1450 6450 1350
 Wire Wire Line
-	7250 2250 6900 2250
-Wire Wire Line
 	6900 2100 6900 2600
 Wire Wire Line
 	5900 3400 6900 3400
@@ -856,15 +854,8 @@ F 3 "" H 6900 750 60  0000 C CNN
 	1    6900 750 
 	1    0    0    -1  
 $EndComp
-Connection ~ 6900 800 
 Wire Wire Line
 	6900 750  6900 850 
-Wire Wire Line
-	7250 800  6900 800 
-Wire Wire Line
-	7250 1300 7250 800 
-Wire Wire Line
-	7250 1700 7250 2250
 Wire Wire Line
 	6900 1250 6900 1600
 Connection ~ 6900 1350
@@ -1105,4 +1096,19 @@ Text Label 4800 5350 3    60   ~ 12
 V-
 Wire Wire Line
 	4800 5250 4800 5350
+Wire Wire Line
+	6900 2250 6450 2250
+Wire Wire Line
+	6450 2250 6450 2350
+$Comp
+L Vref #PWR?
+U 1 1 54B3E7A5
+P 6450 2750
+F 0 "#PWR?" H 6450 2720 20  0001 C CNN
+F 1 "Vref" H 6450 2890 59  0000 C CNN
+F 2 "" H 6450 2750 60  0000 C CNN
+F 3 "" H 6450 2750 60  0000 C CNN
+	1    6450 2750
+	-1   0    0    1   
+$EndComp
 $EndSCHEMATC
