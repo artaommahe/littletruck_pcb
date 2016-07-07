@@ -1,6 +1,6 @@
 *.*
 
-# exept
+
 !.gitignore
 
 # SprintLayout6 layouts
@@ -8,6 +8,10 @@
 
 # LTSpice schemes
 !*.asc
+
+# Schemes images
+!*.png
+!*.jpg
 
 # KiCAD libs
 !kicad/lib/
